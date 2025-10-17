@@ -7,8 +7,8 @@
 ;;
 ;; Future extensions:
 ;; - Royalty payout system (integrated with fungible tokens)
-;; - Verification & reputation system for artists
 ;; - Integration with NFT minting for songs
+;; - Music & podcast streaming service
 ;; --------------------------------------
 
 ;; --------------------------------------

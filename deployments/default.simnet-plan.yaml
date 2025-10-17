@@ -58,7 +58,6 @@ genesis:
     - pox-4
     - signers
     - signers-voting
-    - costs-4
 plan:
   batches:
     - id: 0
@@ -68,4 +67,4 @@ plan:
             emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
             path: contracts/stacks_audiobits.clar
             clarity-version: 1
-      epoch: "2.1"
+      epoch: "2.0"
